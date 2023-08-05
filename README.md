@@ -3,7 +3,7 @@
 ![image](https://github.com/cauahfb/Zeri-MusicBot/assets/100867839/718e9422-aee8-412a-bb51-5e5a953b1bbb)
 
 <p>Um bot criado inspirado na Zeri, com funcionalidades para reprodução de música no Discord.</p>
-<p>Zeri possui falas ácidas e ariscas, não sendo recomendado o uso para todos.</p>
+<p>Zeri BOT possui falas ácidas e ariscas, não sendo recomendado o uso para todos.</p>
 
 <h3>Funções</h3>
 
