@@ -1,0 +1,5 @@
+DISPLAY_NAME=Zeri
+MAIN=main.py
+MEMORY=128
+VERSION=recommended
+DESCRIPTION=MusicBot
