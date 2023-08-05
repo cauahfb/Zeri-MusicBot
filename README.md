@@ -12,5 +12,5 @@
 <li>/play - Procura e Reproduz uma música do Youtube, caso já tenha alguma música em reprodução será adicionada a lista de músicas.</li>
 <li>/queue - Apresenta a lista de próximas músicas a serem tocadas.</li>
 <li>/skip - Pula para a próxima música.</li>
-<li>/skip - Para a reprodução de músicas.</li>
+<li>/stop - Para a reprodução de músicas.</li>
 </ul>
